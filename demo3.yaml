@@ -1,8 +1,0 @@
-apiVersion: v1
-kind: deployment
-metadarta: 
--name: nginx-depl
--image: nginx
-ports: 
-
-
